@@ -1,0 +1,6 @@
+{
+  "name": "Gym App Blueprint - Retention & QR Attendance System",
+  "description": "A complete silent churn retention, rotating QR attendance, timely renewals, and add-on revenue platform for Indian fitness studios with AI coach & analysis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
